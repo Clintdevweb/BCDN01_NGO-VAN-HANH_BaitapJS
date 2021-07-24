@@ -35,4 +35,4 @@ console.log("Chữ số hàng chục: " +so_hang_chuc);
 // Tính tổng chữ số hàng chục và chữ số hàng đơn vị của số đã nhập theo công thức sum_num2 = so_hang_dv + so_hang_chuc;
 sum_num2 = so_hang_dv + so_hang_chuc;
 
-console.log("Tổng chữ số của số có 2 chữ số: " +sum_num2);
+console.log("Tổng các chữ số của số có 2 chữ số: " +sum_num2);
