@@ -1,9 +1,8 @@
 // Bài tập 2
 // Khối 1: Input 
-// 5 số
+// 5 số thực
 // Công thức tính trung bình 5 số:
 //  Tổng 5 số / 5
-
 
 
 // Khối 2: Các bước xử lý

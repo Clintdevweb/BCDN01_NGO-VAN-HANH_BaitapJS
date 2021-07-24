@@ -9,8 +9,7 @@
 // B2 Tạo gắn giá trị cho  rộng hình chữ nhật là width
 // B3 Tạo  biến chứa s và p trong đó ta hiểu s là diện tích và p là chu vi hình chữ nhật
 // B4 Tạo biến sum là tổng của chiều rộng và chiều dài hình chữ nhật
-// B4 Xậy dựng công thức tính chu vi và diện tích hình chữ nhật
-// sum = width + length;
+// B4 Xậy dựng công thức tính chu vi, diện tích hình chữ nhật và sum:
 // s = width * length;
 // p = sum1 * 2;
 // B5 Hiện kết quả  console.log
@@ -23,7 +22,7 @@
 var width = 3;
 var length = 5;
 
-// Tạo biến chứa sum s và p
+// Tạo biến chứa sum1 s và p
 
 var sum1 = 0;
 var s = 0;

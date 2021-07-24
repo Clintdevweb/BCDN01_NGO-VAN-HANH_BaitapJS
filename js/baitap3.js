@@ -10,7 +10,7 @@
 // B2 Tạo gắn giá trị cho tigiaquydoi
 // B3 Tạo  biến chứa VND
 // B4 Xậy dựng công thức quy đổi
-//  VND = USD * 23500
+//  VND = USD * tigiaquydoi
 // B5 Hiện kết quả  console.log
 
 
